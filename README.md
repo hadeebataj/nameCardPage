@@ -1,6 +1,6 @@
 # nameCardPage
 This website shows the search functionatlity of the name cards.</br>
-Search for Heroes using the Marvel API Go to Marvel and get Api keys for the code to run.</br>
+
 Website: https://nostalgic-carson-5f1fdb.netlify.app/
 </br>
 </br>
